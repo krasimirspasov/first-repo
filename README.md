@@ -1,2 +1,2 @@
 # first-repo
-update whit gitbash program
+update whit tostes program
